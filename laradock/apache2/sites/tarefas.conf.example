@@ -1,0 +1,16 @@
+<VirtualHost *:80>
+  ServerName tarefas.local
+  DocumentRoot /var/www/tarefas/public
+  Options Indexes FollowSymLinks
+
+  <Directory "/var/www/tarefas/public/">
+    AllowOverride All
+    <IfVersion < 2.4>
+      Allow from all
+    </IfVersion>
+    <IfVersion >= 2.4>
+      Require all granted
+    </IfVersion>
+  </Directory>
+
+</VirtualHost>

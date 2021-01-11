@@ -1,0 +1,16 @@
+2020/05/15 20:20:25 [emerg] 8#8: "location" directive is not allowed here in /etc/nginx/sites-available/octo.conf:39
+2020/05/15 20:22:30 [emerg] 8#8: "location" directive is not allowed here in /etc/nginx/sites-available/octo.conf:49
+2020/05/15 20:23:30 [emerg] 8#8: "root" directive is duplicate in /var/www/octo/nginx.conf.sample:29
+2020/05/15 20:42:45 [emerg] 8#8: "root" directive is duplicate in /var/www/octo/nginx.conf.sample:29
+2020/05/16 13:55:40 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.loja.conf:3
+2020/05/16 13:56:54 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.loja.conf:3
+2020/05/16 13:58:32 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 13:59:58 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 14:00:11 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 14:01:18 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 14:02:14 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 14:02:33 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/05/16 14:02:40 [emerg] 8#8: a duplicate default server for 0.0.0.0:80 in /etc/nginx/sites-available/octo.conf:3
+2020/09/16 13:16:14 [emerg] 8#8: "http" directive is not allowed here in /etc/nginx/sites-available/grupoznnt.conf:16
+2020/09/17 13:46:47 [warn] 9#9: conflicting server name "bemsolucoes.local" on 0.0.0.0:80, ignored
+2020/09/17 13:46:47 [warn] 9#9: conflicting server name "bemsolucoes.local" on [::]:80, ignored
